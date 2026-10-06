@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bossuet.univ-rouen.fr/sitemap.xml
